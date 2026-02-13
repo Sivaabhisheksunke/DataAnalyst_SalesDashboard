@@ -12,11 +12,13 @@ The ultimate purpose of the Sales Dashboard Project is to allow users (Stakehold
 
 ### 🔎 Key skills demonstrated
 
-* Data Cleaning and Pre-Processing
-* SQL Data Extraction (for querying)
-* KPI Development and Performance Metrics calculation
-* Exploratory Data Analysis (EDA)
-* Design of Interactive Dashboards (Power BI and Excel)
-* Business Storytelling through Data Visualization
+- Data Cleaning and Pre-Processing
+- SQL Data Extraction (for querying)
+- KPI Development and Performance Metrics calculation
+- Exploratory Data Analysis (EDA)
+- Design of Interactive Dashboards (Power BI and Excel)
+- Business Storytelling through Data Visualization
 
 In summary, the Sales Dashboard Project has proved that it is possible to manipulate both structured and unstructured sales data to create visual representations of that data that provide clear and meaningful insights that affect the business results of the sales process in a substantial way.
+
+Author - Siva Abhishek Sunke
