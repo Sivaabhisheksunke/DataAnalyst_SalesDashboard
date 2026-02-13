@@ -1,4 +1,4 @@
-DataAnalyst_SalesDashboard
+**DataAnalyst_SalesDashboard:**
 
 Data Analyst Project: Sales Dashboard-Cleaned and analyzed raw sales data to build a fully interactive dashboard tracking key performance indicators such as total sales, total profit, growth rate, profit margin, and regional performance. Conducted EDA to identify trends, seasonal patterns, and top-performing products. Proficiently used SQL, Excel/Power BI, and Python in the transformation of complex datasets into actionable, data-driven business insights.
 
